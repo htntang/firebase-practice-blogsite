@@ -86,3 +86,43 @@ div.auth-box{
   margin-right:200px;
   background-color: #8BBE96;
 }
+
+div.box1{
+  position:relative;
+  background-color:#8BBE96;
+  color:#eee;
+  padding:20px;
+  height:400px;
+}
+
+div.box2{
+  position:relative;
+  background-color:#eee;
+  color:#294243;
+  padding:20px;
+  height:400px;
+}
+
+div.box3{
+  position:relative;
+  background-color:#8BBE96;
+  color:#eee;
+  padding:20px;
+  height:400px;
+}
+
+div.box4{
+  position:relative;
+  background-color:#eee;
+  color:#294243;
+  padding:20px;
+  height:400px;
+}
+
+div.box5{
+  position:relative;
+  background-color:#8BBE96;
+  color:#eee;
+  padding:20px;
+  height:400px;
+}

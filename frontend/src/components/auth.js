@@ -37,6 +37,9 @@ await signOut(auth);
 
     return (
         <div>
+            Sign-Up
+            <br />
+            <br />
             <input
                 placeholder="Email"
                 onChange={(e) => setEmail(e.target.value)} 
